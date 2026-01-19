@@ -92,6 +92,8 @@ Atualmente sou técnico em Desenvolvimento de Sistemas e estou graduando em Enge
 <br/>
 <br/>
 
+---
+
 ### 📊 Statistics
 <p>
   <img 
