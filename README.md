@@ -1,8 +1,9 @@
-# 👩🏻‍💻 Anthony Bruno 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Anthony+Bruno)](https://git.io/typing-svg)
+---
 
-**`Desenvolvedor Front-End`**
+**Desenvolvedor Full Stack**
 
-Sou Anthony Bruno, formado em Desenvolvimento de Sistemas e graduando em Engenharia de Software. Gosto de aprender na prática, evoluir constantemente e transformar ideias em soluções por meio da tecnologia. Utilizo este espaço para registrar minha jornada, compartilhar projetos e acompanhar meu crescimento como desenvolvedor.
+Atualmente sou técnico em Desenvolvimento de Sistemas e estou graduando em Engenharia de Software. Gosto de aprender na prática, evoluir constantemente e transformar ideias em soluções por meio da tecnologia. Utilizo este espaço para registrar minha jornada, compartilhar projetos e acompanhar meu crescimento como desenvolvedor.
 <p align="left">
     <a href="https://github.com/anthonybrps?tab=repositories&sort=stargazers">
         <img 
@@ -22,7 +23,7 @@ Sou Anthony Bruno, formado em Desenvolvimento de Sistemas e graduando em Engenha
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Skills
 
 <img 
     align="left" 
@@ -91,8 +92,7 @@ Sou Anthony Bruno, formado em Desenvolvimento de Sistemas e graduando em Engenha
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
+### 📊 Statistics
 <p>
   <img 
     align="left" 
