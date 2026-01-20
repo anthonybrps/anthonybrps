@@ -37,7 +37,6 @@ Atualmente curso **Engenharia de Software na Anhanguera**, buscando me tornar um
 - ⚙️ Lógica de back-end e APIs
 - 📱 Layouts responsivos
 - 🗄️ Bancos de dados e modelagem de dados
-- 🔄 Aprendizado contínuo e evolução constante
 - 🤝 Trabalho em equipe e colaboração
 
 ---
