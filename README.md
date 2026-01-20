@@ -70,8 +70,8 @@ Atualmente curso **Engenharia de Software na Anhanguera**, buscando me tornar um
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anthonybrps&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybrps&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anthonybrps&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybrps&layout=compact&theme=tokyonight" />
 </p>
 
 ---
