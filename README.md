@@ -5,13 +5,14 @@
 🎓 **Systems Development Technician – SENAI**  
 🇧🇷 Brazil
 
-I build **complete web applications**, working across **front-end and back-end**, with focus on **clean code**, **organization**, and **continuous improvement**.
 
-Currently studying **Software Engineering at Anhanguera** and developing myself to become a strong **Full Stack Developer**.
+Desenvolvo **aplicações web completas**, atuando tanto no **front-end quanto no back-end**, com foco em **código limpo**, **organização** e **evolução contínua**.
+
+Atualmente curso **Engenharia de Software na Anhanguera**, buscando me tornar um **Desenvolvedor Full Stack sólido e preparado para o mercado**.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
     <a href="https://github.com/anthonybrps">
@@ -27,23 +28,21 @@ Currently studying **Software Engineering at Anhanguera** and developing myself 
   </a>
 </p>
 
+---
+
+## 🧠 O que eu faço
+
+- 🧩 Desenvolvimento web Full Stack
+- 🎨 Criação de interfaces e experiência do usuário (UX)
+- ⚙️ Lógica de back-end e APIs
+- 📱 Layouts responsivos
+- 🗄️ Bancos de dados e modelagem de dados
+- 🔄 Aprendizado contínuo e evolução constante
+- 🤝 Trabalho em equipe e colaboração
 
 ---
 
-## 🧠 What I do
-
-- 🧩 Full Stack web development
-- 🎨 Front-end interfaces and UX
-- ⚙️ Back-end logic and APIs
-- 📱 Responsive layouts
-- 🗄️ Databases and data modeling
-- 🔄 Continuous learning and improvement
-- 🤝 Teamwork and collaboration
-
----
-
-
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Front-end
 
@@ -62,7 +61,7 @@ Currently studying **Software Engineering at Anhanguera** and developing myself 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Tools & Others
+### Ferramentas & Outros
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -70,7 +69,7 @@ Currently studying **Software Engineering at Anhanguera** and developing myself 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=anthonybrps&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybrps&layout=compact&theme=tokyonight" />
@@ -78,8 +77,7 @@ Currently studying **Software Engineering at Anhanguera** and developing myself 
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
-> _"Consistency beats motivation.  
-> Every line of code is a step forward."_
-
+> _"Consistência vence a motivação.  
+> Cada linha de código é um passo à frente."_
