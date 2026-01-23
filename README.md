@@ -8,22 +8,15 @@
 
 Desenvolvo **aplicações web completas**, atuando tanto no **front-end quanto no back-end**, com foco em **código limpo**, **organização** e **evolução contínua**.
 
-Atualmente curso **Engenharia de Software na Anhanguera**, buscando me tornar um **Desenvolvedor Full Stack sólido e preparado para o mercado**.
-
 ---
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-    <a href="https://github.com/anthonybrps">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/anthony-bruno-b18069297/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Linkedln" 
+            title="Me siga no Linkedln" 
      />
   </a>
 </p>
