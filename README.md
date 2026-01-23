@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+Im+Anthony+Bruno)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Anthony+Bruno)](https://git.io/typing-svg)
 ---
 
 🚀 **Full Stack Developer | Software Engineering Student**  
