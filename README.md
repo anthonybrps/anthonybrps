@@ -30,7 +30,6 @@ Desenvolvo **aplicações web completas**, atuando tanto no **front-end quanto n
 - ⚙️ Lógica de back-end e APIs
 - 📱 Layouts responsivos
 - 🗄️ Bancos de dados e modelagem de dados
-- 🤝 Trabalho em equipe e colaboração
 
 ---
 
